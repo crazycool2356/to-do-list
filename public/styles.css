@@ -94,6 +94,7 @@ li span {
 }
 .remove-button {
   font-family: 'WeezerFont', Arial, sans-serif;
+  color: black;
   background-color: #ff9494;
   width: 10%;
   height: 100%;
